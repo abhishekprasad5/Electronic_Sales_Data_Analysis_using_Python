@@ -1,4 +1,4 @@
-# Electronic-Sales-Data-Analysis
+# Electronic Sales Data Analysis
 
 ## Objective
 In this project we use Python Pandas & Python Matplotlib to analyze and answer some Business releated Questions for 12 months worth of sales data. The data contains hundreds of thousands of Electronics Store Sales purchases data broken down by Month, Product Type, Cost, Purchase Address, etc.
